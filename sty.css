@@ -1,0 +1,7 @@
+#caja{
+    background-color: darkgray;
+    border: solid 16px #008000;
+    padding: 50px;
+    text-align: center;
+    margin: 20px;
+}
